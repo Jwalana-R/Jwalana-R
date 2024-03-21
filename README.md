@@ -12,7 +12,7 @@ You can reach me here :
    
 ## About Me 
 Hi, I’m Jwalana
-- 🔭 I am a sophomer with majors in Computer Science at ABV-IIITM Gwalior from India.
+- 🔭 I am a pre-final year student with majors in Computer Science at ABV-IIITM Gwalior from India.
 - 🌱 I’m currently mentee of OSS cohort at codess cafe.
 - 💞️ I’m looking to collaborate on exciting projects on full stack development.
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development and open source !. 
